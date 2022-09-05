@@ -21,7 +21,7 @@ A refresher in React.js including fundamental to advanced topics.
 <br >
 
 #### Acknowledgements
-- [Learning React (Kirupa Chinnathambi )](https://www.amazon.co.uk/Learning-React-Hands-Building-Applications-ebook/dp/B07CQPL2BM)
+- [Learning React (Kirupa Chinnathambi, 2018)](https://www.amazon.co.uk/Learning-React-Hands-Building-Applications-ebook/dp/B07CQPL2BM)
 - The cool repo badges, logos and code stats on this README are courtesy of [Simple Icons](https://simpleicons.org) and [Shields.io](https://shields.io).
 
 
